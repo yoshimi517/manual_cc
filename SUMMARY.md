@@ -2,6 +2,7 @@
 
 * [はじめに](README.md)
 * [ヘルプ](docs/HELP.md)
+* [環境構築方法](docs/SETUP.md)
 * [Chapter.1 ControlCenter とは](docs/Chapter1_watisCC/README.md)
     * [Section.1-1 コンポーネントとしての位置づけ](docs/Chapter1_watisCC/1-1.md)
     * [Section.1-2  動作環境](docs/Chapter1_watisCC/1-2.md)
