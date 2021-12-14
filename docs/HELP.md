@@ -250,7 +250,7 @@ abcdefg
 ## 10. 作業者
 
 1. さかまき@maru9makky
-1. しろた@t-shirota
+1. しろた 城田@t-shirota
 1. ごうど
 1. ふじもと
 1. あべ
