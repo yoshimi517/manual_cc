@@ -1,8 +1,8 @@
 <table style="border-collapse: separate; border-spacing: 5px 0; margin: 0 auto; width: 500px;">
   <tr>
     <td style="color: #fff; background: linear-gradient(#326693, #31A9EE); border-radius: 5px; width: 600px; height: 300px; text-align: right;">
-      <font style="font-size: 45px">Chapter. 3</font><br />
-      <font style="font-size: 30px">機能について</font>
+      <font style="font-size: 45px">Chapter. 5</font><br />
+      <font style="font-size: 30px">座席表機能</font>
     </td>
   </tr>
 </table>
